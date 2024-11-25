@@ -1,0 +1,8 @@
+import math
+def area_circulo(r):
+    area = math.pi * r **2
+    return area
+print(area_circulo(3))
+
+operacion = (5 // 2) * 2
+print (operacion)
